@@ -9,7 +9,7 @@ import plotly.express as px
 # --- 1. CONFIGURATION ---
 APP_TITLE = "AQI Forecaster"
 DEVELOPER_NAME = "Avinash Kekan"
-API_KEY = "281f9e5411a16aae4dce2baa22bc9abf"
+API_KEY = "API KEY"
 
 st.set_page_config(
     page_title=APP_TITLE,
